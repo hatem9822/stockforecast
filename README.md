@@ -1,7 +1,9 @@
-Install dependencies using pip:
+# Stock Price Forecasting App
 
-pip install -r requirements.txt
+## Installation
 
-to run the code : 
+1. **Install dependencies**:
 
-streamlit runt app.py
+   ```bash
+   pip install -r requirements.txt
+
