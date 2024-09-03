@@ -1,0 +1,8 @@
+pandas
+streamlit
+yfinance
+matplotlib
+ta
+scikit-learn
+neuralforecast
+utilsforecast
